@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+ a = 10; 
+ b= 20;
+ add = a+b;
+ printf("Adding two numbers:%d", add);
+}
+
